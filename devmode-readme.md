@@ -12,7 +12,7 @@ Go to the server folder and make a copy of the .env file, rename it to ```.env.l
 
 ***Step 3 - Start Dockers:***
 
-Note: On some versions of npm the run dev script in the root folder does not fire up the docker containers in the server folder. Try ```npm run dev``` from the project root and if you see errors during the process you may have to start some of the dockers manually. I recommend using terminal tabs if available.
+Note: On some versions of npm the run dev script in the root folder does not fire up the docker containers in the server folder. Try ```npm run dev``` from the project root and if you see errors during the process you may have to start some of the dockers manually. I recommend using terminal tabs if available. After you do this once you should just be able to run step 4 as normal.
 
 From root of project:
 
