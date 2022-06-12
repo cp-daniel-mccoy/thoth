@@ -4,6 +4,8 @@ Thoth is a multishot system builder. It leverages a visual coding style interfac
 
 ## Quickstart
 
+There are specialized npm instructions for dev-mode with npm in the 'devmode-readme' file.
+
 You will need **yarn or npm** and **Docker** installed, along with **Node.js 16 or higher**. We use Docker to run a local Postgres database. You can skip the docker and install postgres directly, but you are almost always better off just using Docker.
 For **Linux** and **MAC** users, **sleep** and **concurently** commands must be installed in the machine.
 
