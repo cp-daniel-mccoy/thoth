@@ -8,7 +8,7 @@ npm install --legacy-peer-deps
 
 ***Step 2 - Start Dockers:***
 
-Note: On some versions of npm the run dev script in the root folder does not fire up the docker containers in the server folder. Try ```npm run dev``` from the project root and if you see errors you may have to start the dockers manually. I recommend using terminal tabs if available.
+Note: On some versions of npm the run dev script in the root folder does not fire up the docker containers in the server folder. Try ```npm run dev``` from the project root and if you see errors during the process you may have to start some of the dockers manually. I recommend using terminal tabs if available.
 
 From root of project:
 
